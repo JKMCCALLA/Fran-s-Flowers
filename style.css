@@ -1,0 +1,32 @@
+.title {
+    color:#54831f;
+    background-color: #fff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  color:#54831f;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    color:#54831f;
+}
+
+table {
+    font-family: 'Work Sans', sans-serif;
+    color:#54831f;
+}
+
+a { 
+  font-family: 'Work Sans', sans-serif;
+    color:#54831f;
+}
+
+address {
+    font-family: 'Work Sans', sans-serif;
+    color:#54831f;
+    font-weight: bold;
+}
